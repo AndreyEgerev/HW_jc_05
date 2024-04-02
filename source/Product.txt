@@ -1,0 +1,5 @@
+1;milk;60
+2;bread;40
+3;beer;100
+4;cheese;200
+5;meat;390
